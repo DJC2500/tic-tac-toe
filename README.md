@@ -58,11 +58,8 @@ Example compilation command:
 arm-none-eabi-as -o game_helpers.o game_helpers.s
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributions
-Feel free to submit issues or pull requests if you'd like to contribute or report bugs.
+This project was completed with my lab partner in fall 2023.
 
 ## Author
 Developed by Divine Joseph Ciroma.
